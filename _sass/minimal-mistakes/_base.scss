@@ -1,7 +1,6 @@
 /* ==========================================================================
    BASE ELEMENTS
    ========================================================================== */
-$base-font-family: 'Roboto Mono', "Courier", monospace;
 
 html {
   /* sticky footer fix */
@@ -13,7 +12,8 @@ body {
   margin: 0;
   padding: 0;
   color: $text-color;
-  font-family: $base-font-family;
+  // font-family: $global-font-family;
+  font-family: 'Roboto Mono', "Courier", monospace;
   line-height: 1.5;
 
   &.overflow--hidden {
