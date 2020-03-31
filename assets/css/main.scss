@@ -6,3 +6,5 @@
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'aqua' }}"; // skin
 @import "minimal-mistakes"; // main partials
+
+$base-font-family: 'Roboto Mono', "Courier", monospace;
