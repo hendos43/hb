@@ -4,10 +4,10 @@ title: "About"
 layout: splash
 author_profile: false
 gallery:
-  - image_path: /assets/images/test.png
+  - image_path: /assets/images/draft-about.jpg
 ---
 
-{% include figure image_path="/assets/images/test.png" %}
+{% include figure image_path="/assets/images/draft-about.jpg" %}
 
 Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
 
