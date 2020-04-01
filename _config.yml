@@ -57,7 +57,7 @@ plugins:
 
 author:
   name   : "Static Changes"
-  avatar : "/assets/images/bio-photo.jpg"
+  #avatar : "/assets/images/bio-photo.jpg"
   bio    : "this is inside _config.yml"
   # links:
   #   - label: "Website"
