@@ -27,6 +27,12 @@
       </div>
     {% endif %}
   </div>
+  
+  <div>
+    {% if page.perpagetext %}
+    {{ page.perpagetext }}
+    {% endif %}
+  </div>
 
   <div class="author__urls-wrapper">
     <button class="btn btn--inverse">{{ site.data.ui-text[site.locale].follow_label | remove: ":" | default: "Follow" }}</button>
