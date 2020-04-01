@@ -105,7 +105,6 @@ defaults:
       type: pages
     values:
       layout: single
-      header: true
       # author_profile: true
 
 category_archive:
