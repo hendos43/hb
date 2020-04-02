@@ -56,9 +56,9 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Static Changes"
+  #name   : "Static Changes"
   #avatar : "/assets/images/bio-photo.jpg"
-  bio    : "this is inside _config.yml"
+  #bio    : "this is inside _config.yml"
   # links:
   #   - label: "Website"
   #     icon: "fas fa-fw fa-link"
