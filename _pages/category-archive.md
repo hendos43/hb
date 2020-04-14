@@ -1,6 +1,8 @@
 ---
-title: "Posts by Category"
-layout: categories
-permalink: /categories/
-author_profile: true
+title: "Themes"
+layout: collection
+permalink: /themes/
+collection: portfolio
+entries_layout: grid
+<!-- author_profile: true -->
 ---
