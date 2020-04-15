@@ -7,5 +7,5 @@ main:
     # categories to themes
   - title: "Themes"
     url: /themes/
-  # - title: "Tags"
-  #   url: /tags/
+  - title: "Tags"
+    url: /tags/
